@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pymongo
+motor
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+groq
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+aiofiles
